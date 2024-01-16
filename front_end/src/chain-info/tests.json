@@ -1,0 +1,19 @@
+{
+  "contracts": {
+    "APIConsumer": "ca0855f99670bc2f75afcff7f4b1f475e192c175",
+    "Counter": "37fe2edac42b1c68623f8b26092e0b9660715a6a",
+    "DappToken": "d9ecf952afa9f90119e16b5ec86b766594cc7252",
+    "MockDAI": "6688ea3393f36437915a67aabbe2e4ee1d856ca8",
+    "MockV3Aggregator": "beeba8a4b196e380b74c74b1e116dff58cb463f5",
+    "MockWETH": "1fab8c8a7f887b820bcdeeb39d3657ce09e2cb64",
+    "OpenZeppelin/openzeppelin-contracts@4.2.0/ERC20": "46265bce5d8560fb57eeebb5352b753a38dd6665",
+    "PriceFeedConsumer": "95fccfe29a3467488653bf0489edb7be3cfa3266",
+    "TokenFarm": "cef9561f494d8e649d657892ca85aad03878243d",
+    "smartcontractkit/chainlink-brownie-contracts@0.2.1/BufferChainlink": "1ce946f6a4eaa185320328620ccf999b9e86db7c",
+    "smartcontractkit/chainlink-brownie-contracts@0.2.1/CBORChainlink": "1ce946f6a4eaa185320328620ccf999b9e86db7c",
+    "smartcontractkit/chainlink-brownie-contracts@0.2.1/Chainlink": "1ce946f6a4eaa185320328620ccf999b9e86db7c",
+    "smartcontractkit/chainlink-brownie-contracts@0.2.1/ChainlinkClient": "750a107dfd09b0702b5ae03a4b6ea3c8b73190e1"
+  },
+  "tests": {},
+  "tx": {}
+}
